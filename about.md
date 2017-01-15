@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Fran is a student in the UBC Master of Data Science program. She is also co-founded Kanekta, an online B2B marketplace for ethical fashion.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[francescaaguila@alumni.ubc.ca](mailto:francescaaguila@alumni.ubc.ca)
